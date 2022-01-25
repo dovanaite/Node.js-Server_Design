@@ -1,0 +1,24 @@
+{
+    "name": "node.js_server_design",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "dead-server --port=3000 --host=localhost",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dovanaite/Node.js-Server_Design.git"
+    },
+    "keywords": [],
+    "author": "Donata <d.dvarionaite@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dovanaite/Node.js-Server_Design/issues"
+    },
+    "homepage": "https://github.com/dovanaite/Node.js-Server_Design#readme",
+    "devDependencies": {
+        "dead-server": "^1.0.6"
+    }
+}
